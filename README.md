@@ -8,3 +8,5 @@ Development notes:
 - Build for production with `npm run build`.
 
 This README replaces merge conflict markers and provides a brief project overview.
+
+# prithi
